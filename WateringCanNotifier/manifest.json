@@ -1,0 +1,10 @@
+{
+  "Name": "WateringCanNotifier",
+  "Author": "Zamiel",
+  "Version": "1.0.0",
+  "Description": "Notifies about the Watering Can running out of water",
+  "UniqueID": "Zamiel.WateringCanNotifier",
+  "EntryDll": "WateringCanNotifier.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["GitHub:Zamiell/WateringCanNotifier"]
+}

@@ -1,0 +1,10 @@
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\bin\Debug\net5.0\WateringCanNotifier.deps.json
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\bin\Debug\net5.0\WateringCanNotifier.dll
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\bin\Debug\net5.0\WateringCanNotifier.pdb
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\obj\Debug\net5.0\WateringCanNotifier.csproj.AssemblyReference.cache
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\obj\Debug\net5.0\WateringCanNotifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\obj\Debug\net5.0\WateringCanNotifier.AssemblyInfoInputs.cache
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\obj\Debug\net5.0\WateringCanNotifier.AssemblyInfo.cs
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\obj\Debug\net5.0\WateringCanNotifier.csproj.CoreCompileInputs.cache
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\obj\Debug\net5.0\WateringCanNotifier.dll
+D:\Repositories\WateringCanNotifier\WateringCanNotifier\obj\Debug\net5.0\WateringCanNotifier.pdb
