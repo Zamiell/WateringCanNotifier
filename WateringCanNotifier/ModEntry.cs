@@ -5,7 +5,7 @@ using StardewModdingAPI.Events;
 using StardewModdingAPI.Utilities;
 using StardewValley;
 
-namespace YourProjectName
+namespace WateringCanNotifier
 {
     public class ModEntry : Mod
     {
@@ -43,9 +43,10 @@ namespace YourProjectName
 
         private void WateringCanWaterChanged(int waterLeft)
         {
-            if (waterLeft == 0)
+            if (waterLeft <= 0) // Water can go into the negatives
             {
                 Notify("Watering can out of water!");
+                Game1.playSound("cowboy_powerup");
             }
         }
 
